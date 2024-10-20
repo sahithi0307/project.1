@@ -1,0 +1,274 @@
+body{
+    border: 0px;
+    margin: 0px;
+    
+}
+#combloo{
+    
+   
+    
+    height: 24px;
+    width: 80px;
+    margin-top:-30px;
+}
+nav{
+    background: #F0F4F9F2;
+     height: Hug (85px);
+     width: 1128px;
+     text-align: center;
+     margin-left: 160px;
+     margin-top: 20px;
+     padding: 10px;
+     border-radius: 32.5px;
+     text-decoration: none;
+     left: -200px;
+}
+
+#names{
+    margin-right: 950px;
+}
+#logo{
+    margin-left: -170px;
+}
+#combloo{
+    margin-bottom:5px;
+    margin-right: 25px;
+}
+#items{
+    display: flex;
+    margin-left: 400px;
+    margin-top: -30PX;
+    text-decoration: none;
+    
+
+}
+#about{
+margin-right:25px;
+text-decoration:none;
+color: #000000;
+font-size: 16px;
+font-family: sans-serif;
+
+
+}
+#Features{
+    margin-right:-30px;
+    text-decoration: none;
+    color: #000000;
+    font-family: sans-serif;
+
+}
+#book{
+    margin-left:45px;
+    text-decoration: none;
+    color: #000000;
+    font-family: sans-serif;
+
+
+}
+#blog{
+    margin-left:25px;
+    text-decoration: none;
+    color: #000000;
+    font-family: sans-serif ;
+
+
+}
+#box5{
+margin-right: 30px;
+
+
+}
+#join{
+    background-color: blue;
+    color: white;
+    height: 20px;
+    width: 90px;
+    margin-left: 250px;
+    margin-top: -5px;
+    font-size: 15px;
+    text-align: center;
+    border-radius: 30px;
+    text-align:center;
+    justify-items: center;
+    padding: 10px;
+}
+h1{
+    font-size: 80px;
+    font-family: sans-serif;
+    margin-left: 300px;
+    margin-top: 260px;
+}
+#star{
+    height: Hug (257)px;
+    width: 973px;
+    
+    margin-LEFT: 250px;
+    margin-top: 200px;
+    ;
+}
+p{
+    font-size: 20px;
+    font-family: sans-serif;
+    color: #707070;
+    margin-left:420px;
+    letter-spacing: 1px;
+    font-size: 14px;
+}
+#para{
+    font-size: 20px;
+    font-family: sans-serif;
+    color:#707070;
+    margin-left:520px;
+    letter-spacing: 1px;
+    font-size: 14px;
+}
+#grp{
+    margin-left:600px;
+}
+#robo{
+    height: 435px;
+    width: 774px;
+    border-radius: 23px;
+    margin-top: 250px;
+    margin-left: 260px;
+}
+#hello{
+    margin-left: -50px;
+}
+#girl{
+    margin-left: 100px;
+    border-radius: 25px;
+    margin-top: 40px;
+    margin-bottom: 100px;
+}
+#exposure{
+    margin-top: -500px;
+    margin-bottom:97px;
+    margin-left: 27px;
+}
+#grp382{
+
+}
+#image3{
+margin-left: 98px;
+margin-top:-60px;
+}
+#image2{
+    margin-left: 27px;
+    margin-bottom: 3px;
+}
+#grp278{
+    margin-left: 70px;
+    margin-top: 40px;
+}
+#grp206{
+margin-left: 64px;
+}
+#foot{
+    font-family: sans-serif;
+    font-size: 13px;
+    color:#707070;
+    margin-left: 77px;
+    font-weight: bold;
+}
+#guide{
+    font-family: sans-serif;
+    font-size: 13px;
+    color:#707070;
+    margin-left: 77px;
+    margin-top: -10px;
+    font-weight: bold;
+}
+h3{
+    font-family:sans-serif;
+    font-size: 14px;
+    color: #000000;
+    margin-left:720px;
+    margin-top:-99px;
+    letter-spacing: 1px;
+    font-weight: bold;
+
+}
+pre{
+
+    margin-top:160px;
+}
+
+#live{
+    margin-top: -10px; 
+    margin-bottom: 200px;
+}
+#Courses{
+    margin-top: 10px;
+    color: #707070;
+    letter-spacing :1px;
+    font-weight: lighter;
+font-family: sans-serif;
+font-size: 14px;
+}
+#AIMentorship{
+margin-top: 8px;
+color: #707070;
+letter-spacing :1px;
+font-weight: lighter;
+font-family: sans-serif;
+font-size: 14px;
+}
+#LiveSessions{
+margin-top: 15px;
+color: #707070;
+letter-spacing :1px;
+font-weight: lighter;
+font-family: sans-serif;
+font-size: 14px;
+}
+#pro{
+    margin-left: 1000px;
+    margin-top: -126px;
+    letter-spacing: 1px;
+    font-weight: bold;
+    font-size: 14px;
+}
+#core{
+    margin-top: 15px;
+    margin-left: 1000px;
+    color: #707070;
+letter-spacing :1px;
+font-weight: lighter;
+font-family: sans-serif;
+font-size: 14px;
+
+}
+#Ai{
+    margin-left: 1000px;
+    margin-top: -3px;
+    
+    color: #707070;
+letter-spacing :1px;
+font-weight: lighter;
+font-family: sans-serif;
+font-size: 14px;
+}
+#PRO2{
+    margin-left: 1230px;
+    margin-top: -94px;
+}
+#pro3{
+    margin-left: 1230px;
+    margin-top: 15px;
+    color: #707070;
+letter-spacing :1px;
+font-weight: lighter;
+font-family: sans-serif;
+font-size: 14px;
+}
+#mentor{
+    margin-left: 1230px;
+    margin-top: 15px;
+    color: #707070;
+letter-spacing :1px;
+font-weight: lighter;
+font-family: sans-serif;
+font-size: 14px;
+}
